@@ -1,5 +1,5 @@
 [workspace]
 members = [
   'util',
-  'problems/p01-sonar-sweep',
+  'problems/*',
 ]
